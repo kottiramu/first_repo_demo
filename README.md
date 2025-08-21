@@ -1,4 +1,4 @@
 # first_repo_demo
 This is my first git_repo
 <br>
-Author-kotti ramu
+Author-kotti kodanda ramu
